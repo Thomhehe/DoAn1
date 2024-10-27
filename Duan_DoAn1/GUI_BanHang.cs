@@ -69,7 +69,7 @@ namespace DoAn1
             dgvhdb.DataSource = dt;
             dgvhdb.Columns[0].HeaderText = "Mã hóa đơn";
             dgvhdb.Columns[1].HeaderText = "Mã nhân viên";
-            dgvhdb.Columns[2].HeaderText = "Thomsansi";
+            dgvhdb.Columns[2].HeaderText = "Mã khách hàng";
             dgvhdb.Columns[3].HeaderText = "Ngày mua";
             dgvhdb.Columns[4].HeaderText = "Tổng tiền";
         }
