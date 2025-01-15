@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mua ngay</name>
+   <tag></tag>
+   <elementGuidId>5196ca0a-b4f5-419f-ab08-fb471e61d610</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='buyNow']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buyNow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d3f4b034-9a34-48b2-a5d8-d5742b01fb67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a8e6f1f1-a4de-4bab-b01b-6c1e3b62a2f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hoverOpacity</value>
+      <webElementGuid>c79fe325-dd14-4386-8266-3f1e9db9421e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buyNow</value>
+      <webElementGuid>7b263497-2aef-49a7-a51c-3af38723430c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+									Mua ngay
+								</value>
+      <webElementGuid>5d739ce5-5456-4e63-8c67-3c18ea8661f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buyNow&quot;)</value>
+      <webElementGuid>4c5628e5-b30f-4289-a083-dd1e98614687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='buyNow']</value>
+      <webElementGuid>8738fee5-5cd1-4c14-b0d3-d644435c382e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productPage']/div[2]/div/div/div[2]/div/div[6]/div[2]/button[2]</value>
+      <webElementGuid>51a91d2a-a622-4898-beb0-6ed3264b8fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm vào giỏ'])[1]/following::button[1]</value>
+      <webElementGuid>0e6f5ec6-4483-44bb-9ca7-018e04c8b831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông số kỹ thuật'])[1]/following::button[2]</value>
+      <webElementGuid>d176e366-9b4f-432f-b695-538d859f5973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chia sẻ trên Facebook'])[1]/preceding::button[1]</value>
+      <webElementGuid>71385253-9b7e-47f3-be09-14472ce8c4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chia sẻ trên Google'])[1]/preceding::button[1]</value>
+      <webElementGuid>1ce9fd9c-2b18-41c3-b150-d8c5f8e91bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mua ngay']/parent::*</value>
+      <webElementGuid>14487b83-4333-4dba-af90-daf3f3ee2d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/button[2]</value>
+      <webElementGuid>b1b161e6-f70b-4d3c-bbf4-e485540a8244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'buyNow' and (text() = ' 
+									Mua ngay
+								' or . = ' 
+									Mua ngay
+								')]</value>
+      <webElementGuid>2a29dead-0c25-445a-bb00-9697974630b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

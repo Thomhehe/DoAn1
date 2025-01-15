@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Thanh ton_lni lni-close</name>
+   <tag></tag>
+   <elementGuidId>bf837e43-f11a-4be6-bc22-202900d8f9ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-cart']/div/div[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > i.lni.lni-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0fd14f82-0492-4bd7-9a35-8b73d6bdf565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lni lni-close</value>
+      <webElementGuid>2ec38822-d4b7-4e1b-8bef-b8941a2ac9f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-cart&quot;)/div[@class=&quot;modal-cart-wrap&quot;]/div[@class=&quot;modal-cart-wrap-close&quot;]/a[1]/i[@class=&quot;lni lni-close&quot;]</value>
+      <webElementGuid>1fa9a7f9-eb5a-4177-a6df-f2ca5063d8f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-cart']/div/div[2]/a/i</value>
+      <webElementGuid>b70cb4ad-6168-4308-af6c-4325faea440f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/a/i</value>
+      <webElementGuid>b7898d9c-8c96-4859-9bc3-05f6390370b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

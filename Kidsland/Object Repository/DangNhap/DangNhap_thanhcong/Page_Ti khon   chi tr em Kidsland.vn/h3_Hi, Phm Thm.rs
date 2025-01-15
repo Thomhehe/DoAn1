@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Hi, Phm Thm</name>
+   <tag></tag>
+   <elementGuidId>5d765416-de0e-4d50-a742-2d9f2a8bb62c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-page']/div/div/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>1ef9b577-8d6f-4155-92ac-1864e68e0d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hi, Phạm Thơm</value>
+      <webElementGuid>49f0316d-8b4b-4698-a615-ccec174ff17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-page&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;account-page-wrap&quot;]/div[@class=&quot;account-page-sidebar&quot;]/div[@class=&quot;account-sidebar-header&quot;]/h3[1]</value>
+      <webElementGuid>b5c94fe6-83cc-46cb-8461-c4d14c4b9aac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-page']/div/div/div/div/h3</value>
+      <webElementGuid>aaa12606-4978-4cc7-b6c9-5857408269f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='onl sale'])[1]/following::h3[1]</value>
+      <webElementGuid>0e9973bc-a32f-473f-9591-5b254652d2b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toy Story'])[1]/following::h3[1]</value>
+      <webElementGuid>fa68c957-5ef2-4103-8734-888152a2ecd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin tài khoản'])[1]/preceding::h3[1]</value>
+      <webElementGuid>83823614-062d-40b3-9bb8-830c1875dab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hi,']/parent::*</value>
+      <webElementGuid>49f10aaf-1d02-4522-8661-9885764dae9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>d4d9b7fb-8f54-4e1e-a92b-98805e99a238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Hi, Phạm Thơm' or . = 'Hi, Phạm Thơm')]</value>
+      <webElementGuid>2e5201f6-c296-4974-8c6e-c117959b920d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

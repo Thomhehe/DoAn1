@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_B 4 xe m hnh Tomica Gift Highway Set Fo_3dda8b</name>
+   <tag></tag>
+   <elementGuidId>7abbce0d-2f83-460f-b0e3-8c6afc2befe2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='group-product']/div/div[2]/div[6]/div/div/a/picture[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>866f427b-ba3c-49a9-80a5-72a91b2017ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>//product.hstatic.net/200000504579/product/4904810903871.1_1cc2bc0dd69b4b93895a7d43875c8869_grande.jpg</value>
+      <webElementGuid>49431c73-d44a-41df-bb0b-d635663facef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//product.hstatic.net/200000504579/product/4904810903871.1_1cc2bc0dd69b4b93895a7d43875c8869_grande.jpg</value>
+      <webElementGuid>3b99b8a9-51ca-450e-bf09-a68beadc65e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid lazyloaded</value>
+      <webElementGuid>3aae6132-8240-4a03-91d6-0fcb5e7bf3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Bộ đồ chơi Tomica Town Gas Station ENEOS</value>
+      <webElementGuid>90d81819-543a-4e6c-b825-dbcf014d4bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group-product&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;group-product-main&quot;]/div[@class=&quot;proLoop&quot;]/div[@class=&quot;proWrap&quot;]/div[@class=&quot;productImg&quot;]/a[@class=&quot;productImgLink&quot;]/picture[2]/img[@class=&quot;img-fluid lazyloaded&quot;]</value>
+      <webElementGuid>75bbe3ad-9ff2-40da-a260-8bb1f86d419d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='group-product']/div/div[2]/div[6]/div/div/a/picture[2]/img</value>
+      <webElementGuid>6dabfb19-d39b-48f7-b055-4fb904bea296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Bộ đồ chơi Tomica Town Gas Station ENEOS'])[2]</value>
+      <webElementGuid>15993189-bf7c-4e46-ba33-c843d44e18df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]/div/div/a/picture[2]/img</value>
+      <webElementGuid>56403dd4-4076-4bec-8c29-15e1bc3909ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//product.hstatic.net/200000504579/product/4904810903871.1_1cc2bc0dd69b4b93895a7d43875c8869_grande.jpg' and @alt = 'Bộ đồ chơi Tomica Town Gas Station ENEOS']</value>
+      <webElementGuid>e315837e-4734-44c9-8eb3-73018a872e90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

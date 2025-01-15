@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_chnh sch bo mt_lni lni-close</name>
+   <tag></tag>
+   <elementGuidId>1bdf3e13-2388-45f1-88be-2903d91b3b69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.lni.lni-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>051de33f-2356-418f-a5f3-aff3d6b9ccd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lni lni-close</value>
+      <webElementGuid>b1e218d3-dbd2-4fee-8f19-81100ef85be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js open-back open-overplay open-noScroll open-modalContact&quot;]/body[@class=&quot;open-back open-overplay open-noScroll open-modalContact&quot;]/div[@class=&quot;modal-contact&quot;]/div[@class=&quot;modal-contact-wrap&quot;]/div[@class=&quot;modal-contact-wrap-close&quot;]/i[@class=&quot;lni lni-close&quot;]</value>
+      <webElementGuid>d1790b66-6cac-48bf-a7e4-65edbe06edcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/i</value>
+      <webElementGuid>27ebefb2-1c98-4cfe-8183-a0526544d84b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

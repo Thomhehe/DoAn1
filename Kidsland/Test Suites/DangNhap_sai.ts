@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DangNhap_sai</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2410c9a9-843a-4587-9016-0b93b887fb51</testSuiteGuid>
+   <testCaseLink>
+      <guid>bb8c59e2-74b4-45e2-a9b1-4e02fadba21f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DangNhap/DangNhap_sai_TC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6df4e2ce-a7a5-4571-a311-db2b5e5094f8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DangNhap_file/Data_file_DNsai</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6df4e2ce-a7a5-4571-a311-db2b5e5094f8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>9fd92a51-7067-4599-b510-c728a62815c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6df4e2ce-a7a5-4571-a311-db2b5e5094f8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>matkhau</value>
+         <variableId>40d61198-cc56-41b6-82da-58fe25ee012f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6df4e2ce-a7a5-4571-a311-db2b5e5094f8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>result</value>
+         <variableId>22d84e0a-cbc1-4792-90d1-2957330fd4e7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

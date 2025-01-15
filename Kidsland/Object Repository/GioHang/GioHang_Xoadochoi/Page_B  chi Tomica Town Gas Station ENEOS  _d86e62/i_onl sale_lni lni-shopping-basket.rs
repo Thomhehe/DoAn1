@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_onl sale_lni lni-shopping-basket</name>
+   <tag></tag>
+   <elementGuidId>017fe8d4-88ff-424a-b630-6d5748c0da54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/header/div[1]/div/div[4]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.headerMenuEnd > div.headerCart.headerTool > a > i.lni.lni-shopping-basket</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>632513ce-d1b5-4c7e-907e-b8b970e40b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lni lni-shopping-basket</value>
+      <webElementGuid>b0e32b1b-50c2-46a1-a913-674e6aab6d2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;headerMenu&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;headerMenuEnd&quot;]/div[@class=&quot;headerCart headerTool&quot;]/a[1]/i[@class=&quot;lni lni-shopping-basket&quot;]</value>
+      <webElementGuid>a4b6213f-0c87-4ab4-93bc-610111dff4a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/div/div[3]/div[3]/a/i</value>
+      <webElementGuid>bd84f006-37f3-46de-98fc-a940480fbe23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/a/i</value>
+      <webElementGuid>16bb7654-5204-4dc9-a445-6f1c8e7fc867</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
